@@ -101,7 +101,7 @@ def main():
 
     arquivo = "nlp_features_train.csv"
     coluna = "question1"
-    limite = 2000
+    limite = 20000
     top_k = 20
 
     if rank == 0:
