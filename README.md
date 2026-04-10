@@ -113,8 +113,9 @@ O speedup ideal para 12 processos seria 12.00, porém o valor obtido foi 3.15, r
 
 ## 7. Gráfico de Tempo de Execução
 
-Observa-se uma redução significativa no tempo de execução conforme o número de processos aumenta, principalmente entre 1 e 4 processos.
+https://github.com/Samuel-Leal1/unieuro-concorrente-202601-atividade5/blob/main/prints/tempothreads
 
+Observa-se uma redução significativa no tempo de execução conforme o número de processos aumenta, principalmente entre 1 e 4 processos.
 A partir de 8 processos, os ganhos tornam-se menores, indicando que o custo de comunicação começa a impactar o desempenho.
 
 ---
@@ -123,8 +124,9 @@ A partir de 8 processos, os ganhos tornam-se menores, indicando que o custo de c
 
 O speedup cresce de forma sub-linear em relação ao ideal.
 
-O melhor resultado proporcional foi obtido com 4 processos, com speedup de 2.00.
+https://github.com/Samuel-Leal1/unieuro-concorrente-202601-atividade5/blob/main/prints/speedupthreads
 
+O melhor resultado proporcional foi obtido com 4 processos, com speedup de 2.00.
 Após esse ponto, a diferença entre o desempenho real e o ideal aumenta consideravelmente.
 
 ---
@@ -133,8 +135,10 @@ Após esse ponto, a diferença entre o desempenho real e o ideal aumenta conside
 
 A eficiência diminui conforme o número de processos aumenta.
 
-O valor passa de 1.00 com 1 processo para 0.26 com 12 processos.
+https://github.com/Samuel-Leal1/unieuro-concorrente-202601-atividade5/blob/main/prints/eficienciathreads
 
+
+O valor passa de 1.00 com 1 processo para 0.26 com 12 processos.
 Esse comportamento é esperado em aplicações paralelas com comunicação intensiva.
 
 ---
