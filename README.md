@@ -3,7 +3,7 @@
 ## Comparação de Similaridade de Perguntas com MPI
 **Dataset:** Quora Question Pairs  
 
-**Disciplina:** Computação Paralela e Distribuída  
+
 | Campo      | Informação                        |
 |------------|-----------------------------------|
 | Disciplina | Computação Paralela e Distribuída |
