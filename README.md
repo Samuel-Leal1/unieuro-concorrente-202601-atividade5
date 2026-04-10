@@ -67,7 +67,6 @@ Calcular a similaridade entre todos os pares possíveis de perguntas de um datas
 - Ambiente controlado
 
 ### Comando
-```bash
 mpiexec -n <N> python avaliadormpi.py
 
 ## 4. Resultados Experimentais
