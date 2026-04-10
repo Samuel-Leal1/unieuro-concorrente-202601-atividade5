@@ -4,10 +4,12 @@
 **Dataset:** Quora Question Pairs  
 
 **Disciplina:** Computação Paralela e Distribuída  
-**Aluno:** Samuel Leal de Araujo 
-**Professor:** Rafael Marconi Ramos  
-**Data:** 20/03/2026  
-
+| Campo      | Informação                        |
+|------------|-----------------------------------|
+| Disciplina | Computação Paralela e Distribuída |
+| Aluno      | Samuel Leal de Araujo             |
+| Professor  | Rafael Marconi Ramos              |
+| Data       | 10/04/2026                        |
 ---
 
 ## 1. Descrição do Problema
